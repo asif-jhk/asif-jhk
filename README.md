@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=HI+THERE%F0%9F%91%8B!+I+AM+ASIF+KHAN...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F74040&random=false&width=435&lines=HI+THERE%F0%9F%91%8B!+I+AM+ASIF+KHAN...)](https://git.io/typing-svg)
+
+
 - 🔭 I’m currently working on ...TO-TO Company
 - 🌱 I’m currently learning ... [🤫]
 - 👯 I’m looking to collaborate on ...
