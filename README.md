@@ -1,5 +1,5 @@
-## Hi there 👋 
-# I AM Asif
+# Hi there 👋 
+## I Am Asif Khan
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...TO-TO Company
